@@ -285,6 +285,7 @@ img{
   bottom: 0;
   background-color: var(--first-color);
   height: .25rem;
+ 
   border-radius: .5rem;
   z-index: var(--z-back);
 }
@@ -295,7 +296,7 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 65%;
+  width: 80%;
 }
 .skills__ux{
   width: 85%;
